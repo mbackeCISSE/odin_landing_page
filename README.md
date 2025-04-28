@@ -4,8 +4,8 @@ landing is a development web project that proposed by The odin project(an online
 
 ## image one
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+[image one](./images_refer/image_01.png)
 
 ## image two
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+[image two](./images_refer/image_02.png)
