@@ -8,7 +8,7 @@ landing is a development web project that proposed by The odin project(an online
 
 ## image two
 
-![image two]([image one](./images_refer/image_01.png))
+![image two](https://github.com/mbackeCISSE/odin_landing_page/blob/main/images_refer/image_02.png?raw=true)
 
 
 
