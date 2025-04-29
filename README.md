@@ -4,16 +4,11 @@ landing is a development web project that proposed by The odin project(an online
 
 ## image one
 
-<<<<<<< HEAD
-[image one](./images_refer/image_01.png)
+![image one](https://github.com/mbackeCISSE/odin_landing_page/blob/main/images_refer/image_01.png?raw=true)
 
 ## image two
 
-[image two](./images_refer/image_02.png)
-=======
-![App Screenshot]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://cdn.statically.io/gh/TheOdinProject/curriculum/81a5d553f4073e593d23a6ab00d50eef8620796d/foundations/html_css/project/imgs/01.png))
+![image two](https://github.com/mbackeCISSE/odin_landing_page/blob/main/images_refer/image_02.png?raw=true)
 
-## image two
 
-![App Screenshot]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://cdn.statically.io/gh/TheOdinProject/curriculum/a38403e7d81cc8305af16ac48985cfbde87834d6/foundations/html_css/flexbox/project-landing-page/imgs/02.png))
->>>>>>> 4695d39a689c1d3ece509d58acb613481dc40bf1
+
