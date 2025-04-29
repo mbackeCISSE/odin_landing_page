@@ -10,5 +10,8 @@ landing is a development web project that proposed by The odin project(an online
 
 ![image two](https://github.com/mbackeCISSE/odin_landing_page/blob/main/images_refer/image_02.png?raw=true)
 
+##presentation of the result of my work in this project
+
+![my work](https://github.com/mbackeCISSE/odin_landing_page/blob/main/images_refer/my_work.png?raw=true)
 
 
